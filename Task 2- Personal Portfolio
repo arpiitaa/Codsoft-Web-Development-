@@ -642,6 +642,62 @@
             </td>
         </tr>
     </table>
+
+
+		<table id="projects" border="0" width="100%"
+        cellpadding="0" cellspacing="0" bgcolor="black">
+        <tr>
+            <td>
+                <table border="0" cellpadding="15"
+                    cellspacing="0" width="80%" align="center">
+                    <tr>
+                        <td height="180" align="center"
+                            valign="middle" colspan="2">
+                            <font face="Verdana" size="7"
+                                color="white">
+                                Contact Details
+                            </font>
+                            <hr color="white" width="90">
+                        </td>
+                    </tr>
+ 
+                    <tr>
+                        <td height="10">
+                            <font face="Times New Roman"
+                                size="5" color="white">
+                                <ul>
+                                    <li>
+                                        D.O.B: 02 OCT 2003
+                                        <a href="#" style="text-decoration:none">
+                                              ➲
+                                        </a>
+                                    </li>
+ 
+                                    <li>
+                                        <hr color="black">
+                                        Phone no. : 9131733743
+                                        <a href="#" style="text-decoration:none"
+                                            color="#black">
+                                              ➲
+                                        </a>
+                                    </li>
+ 
+                                    <li>
+                                        <hr color="black">
+                                        Email Address : bhargavaarpita89@gmail.com
+                                        <a href="#" style="text-decoration:none">
+                                              ➲
+                                        </a>
+                                    </li>
+                                <hr color="black">
+                            </font>
+                        </td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+    </table>
+ 
  
 	<table id="footer" border="0" width="100%"
 		cellpadding="0" cellspacing="0" bgcolor="pink">
