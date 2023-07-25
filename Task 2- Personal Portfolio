@@ -1,0 +1,742 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content=
+		"width=device-width, initial-scale=1.0">
+	<title>HTML Project</title>
+</head>
+<body>
+	<table id="header" border="0" width="100%"
+		cellpadding="0" cellspacing="0" bgcolor="pink">
+		<tr>
+			<td>
+				<table border="0" cellpadding="15"
+					cellspacing="0" width="100%" align="center">
+					<tr>
+						<td>
+							
+
+						</td>
+						<td>
+							<a href="#about" style="text-decoration:none">
+								<font face="Verdana" size="3" color=black>
+									Career Objective
+								</font>
+							</a>
+						</td>
+						<td>
+							|
+						</td>
+
+						<td>
+							<a href="#projects" style="text-decoration:none">
+								<font face="Verdana" size="3" color=black>
+									Academic Qualifications
+								</font>
+							</a>
+						</td>
+
+						<td>
+							|
+						</td>
+
+						<td>
+							<a href="#achievements" style="text-decoration:none">
+								<font face="Verdana" size="3" color=black>
+									Internship
+								</font>
+							</a>
+						</td>
+
+						<td>
+							|
+						</td>
+
+						<td>
+							<a href="#contact" style="text-decoration:none">
+								<font face="Verdana" size="3" color=black>
+									Technical skill sets
+								</font>
+							</a>
+						</td>
+						<td>
+					        |
+					    </td>
+						
+						<td>
+							<a href="#achievements" style="text-decoration:none">
+								<font face="Verdana" size="3" color=black>
+									Extra Training and Certificates
+								</font>
+							</a>
+						</td>
+
+						<td>
+							|
+						</td>
+						
+						<td>
+							<a href="#achievements" style="text-decoration:none">
+								<font face="Verdana" size="3" color=black>
+									Strength
+								</font>
+							</a>
+						</td>
+
+						<td>
+							|
+						</td>
+						
+						<td>
+							<a href="#achievements" style="text-decoration:none">
+								<font face="Verdana" size="3" color=black>
+									Hobbies and Interest
+								</font>
+							</a>
+						</td>
+
+						<td>
+							|
+						</td>
+						
+						<td>
+							<a href="#achievements" style="text-decoration:none">
+								<font face="Verdana" size="3" color=black>
+									Languages
+								</font>
+							</a>
+						</td>
+
+						<td>
+							|
+						</td>
+						
+					</tr>
+				</table>
+			</td>
+		</tr>
+	</table>
+	
+	<table id="home" border="1" width="100%"
+		cellpadding="20" cellspacing="0" bgcolor="black">
+		<tr>
+			<td>
+				<table border="0" cellpadding="15"
+					cellspacing="0" width="90%" align="center">
+					<tr>
+						<td align="center" valign="middle">
+							<h3>
+								<font face="Times New Roman"
+									size="5" color="#ffffff">
+									ARPITA BHARGAVA
+									<br>
+							       arpita89@gmail.com
+								</font>
+							</h3>
+
+							<h2>
+								<font face="Verdana" size="6"
+									color="#4CAF50">
+								</font>
+							</h2>
+						</td>
+					</tr>
+				</table>
+			</td>
+		</tr>
+	</table>
+
+	<table id="about" border="0" width="100%"
+		cellpadding="0" cellspacing="0" bgcolor="black">
+		<tr>
+			<td>
+				<table border="0" cellpadding="15"
+					cellspacing="0" width="80%" align="center">
+					<tr>
+						<td height="180" align="center"
+							valign="middle" colspan="2">
+							<font face="Verdana" size="7"
+								color="white">
+								Career Objective
+							</font>
+							<hr color="white" width="90">
+						</td>
+					</tr>
+
+					<tr>
+						<td width="10%">
+							<img src="C:\Users\Arpita\Downloads\WhatsApp Image 2023-07-24 at 20.11.02.jpeg" alt= "Whatsapp Image" width="300" height="400">
+">
+						</td>
+
+						<td width="60%">
+							<font face="Verdana" size="4"
+								color="white">
+								
+								Arpita BHargava , pursuaing BTech CSE 
+								from Amity University.
+					            I love to solve programming problems
+								in most efficient ways. 
+								<hr color="black">
+
+								I do my work mainly in C-Language,
+								C++ and JAVA. C++ and Data Structure
+								& Algorithm are my stronger section.
+								Besides these I know Web Development,
+								LINUX and database as well.
+								<hr color="black">
+                                 
+								 I want to work with an organization 
+								 that can give me ample opportunities 
+								 to grove so that I will be able to help 
+								 in the growth of that organization 
+								 and will be able to enhance my skill
+								 and my capabilities.
+								<hr color="black">
+								
+							</font>
+						</td>
+					</tr>
+				</table>
+				<hr color="black">
+				<hr color="black">
+				<hr color="black">
+			</td>
+		</tr>
+	</table>
+
+	<table id="projects" border="0" width="100%"
+		cellpadding="0" cellspacing="0" bgcolor="#c2c0c3">
+		<tr>
+			<td>
+				<table border="0" cellpadding="15"
+					cellspacing="0" width="80%" align="center">
+					<tr>
+						<td height="180" align="center"
+							valign="middle" colspan="2">
+							<font face="Verdana" size="7"
+								color="black">
+								Academic Qualifications
+							</font>
+							<hr color="black" width="90">
+						</td>
+					</tr>
+
+					<tr>
+						<td height="10">
+							<font face="Times New Roman"
+								size="5" color="black" align="center">
+								<ul>
+									<li>
+										Pursuing B. TECH CSE from Amity University Madhya Pradesh
+										(2023 - Present) with current CGPA 8.13 
+										<a href="#" style="text-decoration:none">
+											 ➲
+										</a>
+									</li>
+
+									<li>
+										<hr color="#c2c0c3">
+										Completed HIGHER SECONDARY SCHOOL CERTIFICATION EXAMINATION 
+										(10+2) from CBSE Board with 82% (2021) 
+										<a href="#" style="text-decoration:none"
+											color="#c2c0c3">
+											 ➲
+										</a>
+									</li>
+
+									<li>
+										<hr color="#c2c0c3">
+										Completed HIGH SCHOOL CERTIFICATION EXAMINATION (10th) 
+										from CBSE Board with 90% (2019) 
+										<a href="#" style="text-decoration:none">
+											 ➲
+										</a>
+									</li>
+								</ul>
+								<hr color="#c2c0c3">
+								<hr color="#c2c0c3">
+							</font>
+						</td>
+
+						<td width="45%">
+							<img src="C:\Users\Arpita\Downloads\amity logo.jpg" alt="amity logo" width="75%" height="100%">
+						</td>
+					</tr>
+				</table>
+			</td>
+		</tr>
+	</table>
+
+	<table id="achievements" border="0" width="100%"
+		cellpadding="0" cellspacing="0" bgcolor="black">
+		<tr>
+			<td>
+				<table border="0" cellpadding="15"
+					cellspacing="0" width="80%" align="center">
+					<tr>
+						<td height="180" align="center" valign="middle">
+							<font face="Verdana" size="7" color="white">
+								Internship
+								<hr color="white" width="100">
+							</font>
+						</td>
+					</tr>
+
+					<tr>
+						<td>
+							<font face="Verdana" size="4" color="white">
+								<ul>
+									<li>
+										<b>Intern at TechnoHacks Edutech.</b>
+										<ul>
+											<li>
+												JULY,2023 - Present.
+											</li>
+											<li>
+												Web development Internship
+											</li>
+										</ul>
+									</li>
+
+									<li>
+										<hr color="black">
+										<hr color="black">
+										<hr color="black">
+										<b>Intern at Codsoft.</b>
+										<ul>
+											<li>
+												JULY,2023 - Present.
+											</li>
+											<li>
+												Java programming Intern
+											</li>
+										</ul>
+									</li>
+
+									<li>
+										<hr color="black">
+										<hr color="black">
+										<hr color="black">
+										<b>Internshala Training.</b>
+										<ul>
+											<li>
+												AUGUST,2023.
+											</li>
+											<li>
+												Web development Certification
+												and Training
+											</li>
+											<hr color="black">
+											<hr color="black">
+											<hr color="black">
+											<hr color="black">
+											<hr color="black">
+										</ul>
+									</li>
+
+								</ul>
+
+							</font>
+						</td>
+					</tr>
+				</table>
+			</td>
+		</tr>
+	</table>
+	
+	<table id="projects" border="0" width="100%"
+        cellpadding="0" cellspacing="0" bgcolor="#c2c0c3">
+        <tr>
+            <td>
+                <table border="0" cellpadding="15"
+                    cellspacing="0" width="80%" align="center">
+                    <tr>
+                        <td height="180" align="center"
+                            valign="middle" colspan="2">
+                            <font face="Verdana" size="7"
+                                color="black">
+                                Technical Skills Set
+                            </font>
+                            <hr color="black" width="90">
+                        </td>
+                    </tr>
+ 
+                    <tr>
+                        <td height="10">
+                            <font face="Times New Roman"
+                                size="5" color="black">
+                                <ul>
+                                    <li>
+                                        Programming Languages: C, Java, HTML, Python 
+                                        <a href="#" style="text-decoration:none">
+                                              ➲
+                                        </a>
+                                    </li>
+ 
+                                    <li>
+                                        <hr color="#c2c0c3">
+                                        Operating system: Windows 
+                                        <a href="#" style="text-decoration:none"
+                                            color="#c2c0c3">
+                                              ➲
+                                        </a>
+                                    </li>
+ 
+                                    <li>
+                                        <hr color="#c2c0c3">
+                                        DBMS: MySQL server 
+                                        <a href="#" style="text-decoration:none">
+                                              ➲
+                                        </a>
+                                    </li>
+ 
+                                    <li>
+                                        <hr color="#c2c0c3">
+                                        IDE: Visual Studio Code, Android Studio, Anaconda, IntelliJ IDEA, PyCharm
+                                        <a href="#" style="text-decoration:none">
+                                              ➲
+                                        </a>
+                                    </li>
+ 
+                                    <li>
+                                        <hr color="#c2c0c3">
+                                        Working Knowledge of MS-Office (Word, Excel, PowerPoint)
+                                        <a href="#" style="text-decoration:none">
+                                              ➲
+                                        </a>
+                                    </li>
+                                <hr color="#c2c0c3">
+                                <hr color="#c2c0c3">
+                            </font>
+                        </td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+    </table>
+	
+	<table id="projects" border="0" width="100%"
+        cellpadding="0" cellspacing="0" bgcolor="black">
+        <tr>
+            <td>
+                <table border="0" cellpadding="15"
+                    cellspacing="0" width="80%" align="center">
+                    <tr>
+                        <td height="180" align="center"
+                            valign="middle" colspan="2">
+                            <font face="Verdana" size="7"
+                                color="white">
+                                Extra Training and Certificates
+                            </font>
+                            <hr color="white" width="90">
+                        </td>
+                    </tr>
+ 
+                    <tr>
+                        <td height="10">
+                            <font face="Times New Roman"
+                                size="5" color="white">
+                                <ul>
+                                    <li>
+                                        Minor track degree in DATA SCIENCE
+                                        <a href="#" style="text-decoration:none">
+                                              ➲
+                                        </a>
+                                    </li>
+ 
+                                    <li>
+                                        <hr color="black">
+                                        Certification in Google Analytics Academy
+                                        <a href="#" style="text-decoration:none"
+                                            color="#black">
+                                              ➲
+                                        </a>
+                                    </li>
+ 
+                                    <li>
+                                        <hr color="black">
+                                        Certification in AI/ML Workshop
+                                        <a href="#" style="text-decoration:none">
+                                              ➲
+                                        </a>
+                                    </li>
+ 
+                                    <li>
+                                        <hr color="black">
+                                        Certification in Deloitte (Forage)
+                                        <a href="#" style="text-decoration:none">
+                                              ➲
+                                        </a>
+                                    </li>
+                                <hr color="black">
+                            </font>
+                        </td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+    </table>
+	
+	<table id="projects" border="0" width="100%"
+        cellpadding="0" cellspacing="0" bgcolor="#c2c0c3">
+        <tr>
+            <td>
+                <table border="0" cellpadding="15"
+                    cellspacing="0" width="80%" align="center">
+                    <tr>
+                        <td height="180" align="center"
+                            valign="middle" colspan="2">
+                            <font face="Verdana" size="7"
+                                color="black">
+                                Strength
+                            </font>
+                            <hr color="black" width="90">
+                        </td>
+                    </tr>
+ 
+                    <tr>
+                        <td height="10">
+                            <font face="Times New Roman"
+                                size="5" color="black">
+                                <ul>
+                                    <li>
+                                        Honest Personality
+                                        <a href="#" style="text-decoration:none">
+                                              ➲
+                                        </a>
+                                    </li>
+ 
+                                    <li>
+                                        <hr color="#c2c0c3">
+                                        Willingness to learn new things 
+                                        <a href="#" style="text-decoration:none"
+                                            color="#c2c0c3">
+                                              ➲
+                                        </a>
+                                    </li>
+ 
+                                    <li>
+                                        <hr color="#c2c0c3">
+                                        Hard Working 
+                                        <a href="#" style="text-decoration:none">
+                                              ➲
+                                        </a>
+                                    </li>
+                                <hr color="#c2c0c3">
+                                <hr color="#c2c0c3">
+                            </font>
+                        </td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+    </table>
+    
+		<table id="projects" border="0" width="100%"
+        cellpadding="0" cellspacing="0" bgcolor="black">
+        <tr>
+            <td>
+                <table border="0" cellpadding="15"
+                    cellspacing="0" width="80%" align="center">
+                    <tr>
+                        <td height="180" align="center"
+                            valign="middle" colspan="2">
+                            <font face="Verdana" size="7"
+                                color="white">
+                                Hobbies and Interest
+                            </font>
+                            <hr color="white" width="90">
+                        </td>
+                    </tr>
+ 
+                    <tr>
+                        <td height="10">
+                            <font face="Times New Roman"
+                                size="5" color="white">
+                                <ul>
+                                    <li>
+                                        Music
+                                        <a href="#" style="text-decoration:none">
+                                              ➲
+                                        </a>
+                                    </li>
+ 
+                                    <li>
+                                        <hr color="black">
+                                        Dancing
+                                        <a href="#" style="text-decoration:none"
+                                            color="#black">
+                                              ➲
+                                        </a>
+                                    </li>
+ 
+                                    <li>
+                                        <hr color="black">
+                                        Reading
+                                        <a href="#" style="text-decoration:none">
+                                              ➲
+                                        </a>
+                                    </li>
+                                <hr color="black">
+                            </font>
+                        </td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+    </table>
+	
+	<table id="projects" border="0" width="100%"
+        cellpadding="0" cellspacing="0" bgcolor="#c2c0c3">
+        <tr>
+            <td>
+                <table border="0" cellpadding="15"
+                    cellspacing="0" width="80%" align="center">
+                    <tr>
+                        <td height="180" align="center"
+                            valign="middle" colspan="2">
+                            <font face="Verdana" size="7"
+                                color="black">
+                                Languages
+                            </font>
+                            <hr color="black" width="90">
+                        </td>
+                    </tr>
+ 
+                    <tr>
+                        <td height="10">
+                            <font face="Times New Roman"
+                                size="5" color="black">
+                                <ul>
+                                    <li>
+                                        English (professional competence)
+                                        <a href="#" style="text-decoration:none">
+                                              ➲
+                                        </a>
+                                    </li>
+ 
+                                    <li>
+                                        <hr color="#c2c0c3">
+                                        Hindi (communicative competence) 
+                                        <a href="#" style="text-decoration:none"
+                                            color="#c2c0c3">
+                                              ➲
+                                        </a>
+                                    </li>
+ 
+                                    <li>
+                                        <hr color="#c2c0c3">
+                                        French (Elementary)
+                                        <a href="#" style="text-decoration:none">
+                                              ➲
+                                        </a>
+                                    </li>
+                                <hr color="#c2c0c3">
+                                <hr color="#c2c0c3">
+                            </font>
+                        </td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+    </table>
+ 
+	<table id="footer" border="0" width="100%"
+		cellpadding="0" cellspacing="0" bgcolor="pink">
+		<tr>
+			<td>
+				<table border="0" cellpadding="15"
+					cellspacing="0" width="90%" align="center">
+					<tr>
+						<td width="13%" valign="top">
+							<b>LinkedIn</b>
+							<a href="#" style="text-decoration:none">
+								➲
+							</a>
+						</td>
+
+						<td>
+							|
+						</td>
+
+						<td width="13%" valign="top">
+							<b>GitHub</b>
+							<a href="#" style="text-decoration:none">
+								➲
+							</a>
+						</td>
+
+						<td>
+							|
+						</td>
+
+						<td width="13%" valign="top">
+							<b>HackerRank</b>
+							<a href="#" style="text-decoration:none">
+								➲
+							</a>
+						</td>
+
+						<td>
+							|
+						</td>
+
+						<td width="13%" valign="top">
+							<b>GeeksforGeeks</b>
+							<a href="#" style="text-decoration:none">
+								➲
+							</a>
+						</td>
+
+						<td>
+							|
+						</td>
+
+						<td width="13%" valign="top">
+							<b>Twitter</b>
+							<a href="#" style="text-decoration:none">
+								➲
+							</a>
+						</td>
+
+						<td>
+							|
+						</td>
+
+						<td width="13%" valign="top">
+							<b>Instagram</b>
+							<a href="#" style="text-decoration:none">
+								➲
+							</a>
+						</td>
+
+						<td>
+							|
+						</td>
+
+						<td width="13%" valign="top">
+							<b>Email</b>
+							<a href="#" style="text-decoration:none">
+								➲
+							</a>
+						</td>
+
+						<td>
+							|
+						</td>
+
+						<td width="13%" valign="top">
+							<b>Website</b>
+							<a href="#" style="text-decoration:none">
+								➲
+							</a>
+						</td>
+					</tr>
+				</table>
+			</td>
+		</tr>
+	</table>
+</body>
+</html>
